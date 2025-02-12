@@ -1,2 +1,4 @@
-here done all ai tast using python 
+here done all ai tast using pytho
+
+
 build and logic by Syed Asad
